@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nonkung51" alt="nonkung51" /></a> </p>
 
-- 🌱 I’m currently learning **mainly FPGA, And a lot more on field of Hardware, Software**
+- 🌱 I’m kind of into Smart Contracts, Docker stuff lately.
 
 - 📝 I regulary write articles on [https://medium.com/@nonthakon](https://medium.com/@nonthakon)
 
