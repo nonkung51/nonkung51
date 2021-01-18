@@ -2,8 +2,6 @@
 <p>Just a rather Computer Engineering Students. Interesting in a lot of things (lol).</p>
 <p>Trying my best to be Renaissance guy (Master of a lot of things 🧐) in Modern world.</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nonkung51" alt="nonkung51" /></a> </p>
-
 - 🌱 I’m kind of into Smart Contracts, Docker stuff lately.
 
 - 📝 I regulary write articles on [https://medium.com/@nonthakon](https://medium.com/@nonthakon)
