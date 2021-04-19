@@ -14,4 +14,4 @@
 <a href="https://linkedin.com/in/nonkung51" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="nonkung51" height="30" width="40" /></a>
 <a href="https://medium.com/@nonthakon" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@nonthakon" height="30" width="40" /></a>
 </p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nonkung51&show_icons=true&locale=en" alt="nonkung51" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nonkung51&theme=tokyonight&show_icons=true" alt="nonkung51" /></p>
