@@ -9,4 +9,3 @@
 - 📫 How to reach me **non_thakon@hotmail.com**
 
 </p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nonkung51&theme=midnight-purple&show_icons=true" alt="nonkung51" /></p>
